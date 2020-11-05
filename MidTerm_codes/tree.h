@@ -1,11 +1,11 @@
 
 
-/* START: fig4_16.txt */
         #ifndef _Tree_H
         #define _Tree_H
 
         typedef int ElementType;
 	typedef int HeightType;
+
 
         struct TreeNode;
         typedef struct TreeNode *Position;
@@ -23,4 +23,4 @@
 
         #endif  /* _Tree_H */
 
-/* END */
+

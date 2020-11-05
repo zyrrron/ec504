@@ -1,14 +1,14 @@
 .SUFFIXES:
 .SUFFIXES: .o .cpp
 #============================================================
-TARGET	=  bst
+TARGET	=  avl
 
 C_SOURCES =  tree.cpp mainAVL.cpp
-C_OBJS     =  tree.o mainAVL.o 
+C_OBJS     =  tree.o analysis.o
 MY_INCLUDES = tree.h
 
 CCX = g++
-CXXFLAGS = -g -std=c++14  -Wall
+CXXFLAGS = -g -std=c++1y  -Wall
 
 #============================================================
 all: $(TARGET)
