@@ -4,7 +4,7 @@
 TARGET	=  avl
 
 C_SOURCES =  tree.cpp mainAVL.cpp
-C_OBJS     =  tree.o analysis.o
+C_OBJS     =  tree.o mainAVL.o
 MY_INCLUDES = tree.h
 
 CCX = g++
