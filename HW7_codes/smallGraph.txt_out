@@ -1,0 +1,62 @@
+CALLING DIJKSTRA/HEAP TO SOLVE THE PROBLEM
+Shortest distance for 1  to 4 is 99999999 
+path to 4 
+ 
+Shortest distance for 1  to 7 is 99999999 
+path to 7 
+ 
+Shortest distance for 1  to 10 is 99999999 
+path to 10 
+ 
+Shortest distance for 1  to 13 is 99999999 
+path to 13 
+ 
+Shortest distance for 1  to 16 is 99999999 
+path to 16 
+ 
+Shortest distance for 1  to 19 is 99999999 
+path to 19 
+ 
+Shortest distance for 1  to 22 is 99999999 
+path to 22 
+ 
+Shortest distance for 1  to 25 is 99999999 
+path to 25 
+ 
+Shortest distance for 1  to 28 is 99999999 
+path to 28 
+ 
+Shortest distance for 1  to 1 is 99999999 
+path to 1 
+ 
+CALLING Bellman-Ford TO SOLVE THE PROBLEM
+Shortest distance from 1  to 4 is 99999999 
+path to 4 
+ 
+Shortest distance from 1  to 7 is 99999999 
+path to 7 
+ 
+Shortest distance from 1  to 10 is 99999999 
+path to 10 
+ 
+Shortest distance from 1  to 13 is 99999999 
+path to 13 
+ 
+Shortest distance from 1  to 16 is 99999999 
+path to 16 
+ 
+Shortest distance from 1  to 19 is 99999999 
+path to 19 
+ 
+Shortest distance from 1  to 22 is 99999999 
+path to 22 
+ 
+Shortest distance from 1  to 25 is 99999999 
+path to 25 
+ 
+Shortest distance from 1  to 28 is 99999999 
+path to 28 
+ 
+Shortest distance from 1  to 1 is 99999999 
+path to 1 
+ 

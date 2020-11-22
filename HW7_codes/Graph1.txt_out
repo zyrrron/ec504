@@ -1,0 +1,62 @@
+CALLING DIJKSTRA/HEAP TO SOLVE THE PROBLEM
+Shortest distance for 1  to 1001 is 99999999 
+path to 1001 
+ 
+Shortest distance for 1  to 2001 is 99999999 
+path to 2001 
+ 
+Shortest distance for 1  to 3001 is 99999999 
+path to 3001 
+ 
+Shortest distance for 1  to 4001 is 99999999 
+path to 4001 
+ 
+Shortest distance for 1  to 5001 is 99999999 
+path to 5001 
+ 
+Shortest distance for 1  to 6001 is 99999999 
+path to 6001 
+ 
+Shortest distance for 1  to 7001 is 99999999 
+path to 7001 
+ 
+Shortest distance for 1  to 8001 is 99999999 
+path to 8001 
+ 
+Shortest distance for 1  to 9001 is 99999999 
+path to 9001 
+ 
+Shortest distance for 1  to 10001 is 99999999 
+path to 10001 
+ 
+CALLING Bellman-Ford TO SOLVE THE PROBLEM
+Shortest distance from 1  to 1001 is 99999999 
+path to 1001 
+ 
+Shortest distance from 1  to 2001 is 99999999 
+path to 2001 
+ 
+Shortest distance from 1  to 3001 is 99999999 
+path to 3001 
+ 
+Shortest distance from 1  to 4001 is 99999999 
+path to 4001 
+ 
+Shortest distance from 1  to 5001 is 99999999 
+path to 5001 
+ 
+Shortest distance from 1  to 6001 is 99999999 
+path to 6001 
+ 
+Shortest distance from 1  to 7001 is 99999999 
+path to 7001 
+ 
+Shortest distance from 1  to 8001 is 99999999 
+path to 8001 
+ 
+Shortest distance from 1  to 9001 is 99999999 
+path to 9001 
+ 
+Shortest distance from 1  to 10001 is 99999999 
+path to 10001 
+ 
